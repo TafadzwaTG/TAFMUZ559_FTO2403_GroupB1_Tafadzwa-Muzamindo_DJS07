@@ -1,7 +1,10 @@
  import React from "react";
 
+//Defining the Header component
  export default function Header(){
     return (
+
+      // The Header component returns a header element with a class of "header"
         <header className="header">
 
             <img 
